@@ -1,0 +1,174 @@
+{
+  "img": {
+    "seq": {
+      "000": {
+        "frame_pixel_num": 2073600,
+        "i_frame_num": 1,
+        "p_frame_num": 3,
+        "ave_i_frame_bpp": 0.129452,
+        "ave_i_frame_psnr": 35.618397,
+        "ave_i_frame_msssim": 0.972147,
+        "frame_bpp": [
+          0.129452,
+          0.070617,
+          0.012253,
+          0.003302
+        ],
+        "frame_psnr": [
+          35.618397,
+          37.061161,
+          36.969749,
+          36.890972
+        ],
+        "frame_msssim": [
+          0.972147,
+          0.978265,
+          0.977685,
+          0.977431
+        ],
+        "frame_type": [
+          0,
+          1,
+          1,
+          1
+        ],
+        "test_time": 13.586221,
+        "ave_p_frame_bpp": 0.028724,
+        "ave_p_frame_psnr": 36.973961,
+        "ave_p_frame_msssim": 0.977794,
+        "ave_all_frame_bpp": 0.053906,
+        "ave_all_frame_psnr": 36.635070,
+        "ave_all_frame_msssim": 0.976382,
+        "ds_name": "img",
+        "video_path": "seq",
+        "rate_idx": 0
+      },
+      "001": {
+        "frame_pixel_num": 2073600,
+        "i_frame_num": 1,
+        "p_frame_num": 3,
+        "ave_i_frame_bpp": 0.177122,
+        "ave_i_frame_psnr": 36.843697,
+        "ave_i_frame_msssim": 0.977983,
+        "frame_bpp": [
+          0.177122,
+          0.087485,
+          0.021497,
+          0.005154
+        ],
+        "frame_psnr": [
+          36.843697,
+          37.809055,
+          37.668499,
+          37.563850
+        ],
+        "frame_msssim": [
+          0.977983,
+          0.981241,
+          0.980469,
+          0.980139
+        ],
+        "frame_type": [
+          0,
+          1,
+          1,
+          1
+        ],
+        "test_time": 3.595620,
+        "ave_p_frame_bpp": 0.038045,
+        "ave_p_frame_psnr": 37.680468,
+        "ave_p_frame_msssim": 0.980616,
+        "ave_all_frame_bpp": 0.072814,
+        "ave_all_frame_psnr": 37.471275,
+        "ave_all_frame_msssim": 0.979958,
+        "ds_name": "img",
+        "video_path": "seq",
+        "rate_idx": 1
+      },
+      "002": {
+        "frame_pixel_num": 2073600,
+        "i_frame_num": 1,
+        "p_frame_num": 3,
+        "ave_i_frame_bpp": 0.248341,
+        "ave_i_frame_psnr": 37.854774,
+        "ave_i_frame_msssim": 0.981971,
+        "frame_bpp": [
+          0.248341,
+          0.090370,
+          0.059537,
+          0.021590
+        ],
+        "frame_psnr": [
+          37.854774,
+          38.226734,
+          38.280014,
+          38.125072
+        ],
+        "frame_msssim": [
+          0.981971,
+          0.982742,
+          0.982768,
+          0.982165
+        ],
+        "frame_type": [
+          0,
+          1,
+          1,
+          1
+        ],
+        "test_time": 3.591987,
+        "ave_p_frame_bpp": 0.057166,
+        "ave_p_frame_psnr": 38.210607,
+        "ave_p_frame_msssim": 0.982558,
+        "ave_all_frame_bpp": 0.104959,
+        "ave_all_frame_psnr": 38.121649,
+        "ave_all_frame_msssim": 0.982411,
+        "ds_name": "img",
+        "video_path": "seq",
+        "rate_idx": 2
+      },
+      "003": {
+        "frame_pixel_num": 2073600,
+        "i_frame_num": 1,
+        "p_frame_num": 3,
+        "ave_i_frame_bpp": 0.343310,
+        "ave_i_frame_psnr": 38.561188,
+        "ave_i_frame_msssim": 0.984490,
+        "frame_bpp": [
+          0.343310,
+          0.124182,
+          0.089830,
+          0.059198
+        ],
+        "frame_psnr": [
+          38.561188,
+          38.663063,
+          38.663258,
+          38.577465
+        ],
+        "frame_msssim": [
+          0.984490,
+          0.984311,
+          0.984139,
+          0.983779
+        ],
+        "frame_type": [
+          0,
+          1,
+          1,
+          1
+        ],
+        "test_time": 3.600270,
+        "ave_p_frame_bpp": 0.091070,
+        "ave_p_frame_psnr": 38.634595,
+        "ave_p_frame_msssim": 0.984076,
+        "ave_all_frame_bpp": 0.154130,
+        "ave_all_frame_psnr": 38.616243,
+        "ave_all_frame_msssim": 0.984180,
+        "ds_name": "img",
+        "video_path": "seq",
+        "rate_idx": 3
+      }
+    }
+  }
+}
